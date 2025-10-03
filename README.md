@@ -57,7 +57,7 @@ DELETE	/destinations/<id>	Delete destination
 🧪 Example JSON Body (POST / PUT)
 
 {
-  "destination": "Paris",
-  "country": "France",
+  "destination": "Japan",
+  "country": "Tokio",
   "rating": 4.8
 }
