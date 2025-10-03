@@ -1,0 +1,3 @@
+api_env/
+*.db
+__pycache__/
