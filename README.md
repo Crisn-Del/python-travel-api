@@ -54,6 +54,7 @@ PUT	/destinations/<id>	Update destination
 DELETE	/destinations/<id>	Delete destination
 
 
+
 🧪 Example JSON Body (POST / PUT)
 
 {
@@ -61,3 +62,7 @@ DELETE	/destinations/<id>	Delete destination
   "country": "Tokio",
   "rating": 4.8
 }
+
+
+<img width="975" height="744" alt="image" src="https://github.com/user-attachments/assets/87aabd97-12e4-4bec-8f0b-a8af77028a0a" />
+<img width="975" height="699" alt="image" src="https://github.com/user-attachments/assets/7a26be24-af82-4530-ad5e-b502af5d3698" />
