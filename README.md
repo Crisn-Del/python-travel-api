@@ -1,4 +1,4 @@
-# python-travel-api
+# Python-travel- REST API
 Travel Destinations REST API (Flask + SQLAlchemy)
 
 This project is a simple REST API built using Flask and SQLAlchemy as part of a learning lab.
